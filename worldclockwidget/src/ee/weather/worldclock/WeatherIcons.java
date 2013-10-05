@@ -14,12 +14,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.util.Calendar;
 import java.util.TimeZone;
 
-import ch.corten.aha.worldclock.weather.WeatherObservation;
+import ee.weather.worldclock.weather.WeatherObservation;
 
 public class WeatherIcons {
     public static int getIcon(int conditionCode) {

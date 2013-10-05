@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.weather.yahoo;
+package ee.weather.worldclock.weather.yahoo;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;

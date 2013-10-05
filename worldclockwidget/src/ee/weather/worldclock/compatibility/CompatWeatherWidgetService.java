@@ -14,13 +14,13 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.compatibility;
+package ee.weather.worldclock.compatibility;
 
 import java.text.DateFormat;
 
-import ch.corten.aha.worldclock.R;
-import ch.corten.aha.worldclock.WeatherWidget;
-import ch.corten.aha.worldclock.WorldClockActivity;
+import ee.weather.worldclock.R;
+import ee.weather.worldclock.WeatherWidget;
+import ee.weather.worldclock.WorldClockActivity;
 import android.app.IntentService;
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;

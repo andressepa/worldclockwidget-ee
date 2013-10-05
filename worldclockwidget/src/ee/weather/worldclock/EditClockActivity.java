@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.util.TimeZone;
 
@@ -35,11 +35,11 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks;
-
 import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.SherlockFragment;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
+
+import ee.weather.worldclock.provider.WorldClock.Clocks;
 
 public class EditClockActivity extends SherlockFragmentActivity {
 

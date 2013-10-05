@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.provider;
+package ee.weather.worldclock.provider;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -23,8 +23,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.regex.Pattern;
 
-import ch.corten.aha.worldclock.provider.WorldClock.Cities;
-
+import ee.weather.worldclock.provider.WorldClock.Cities;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.database.DatabaseUtils.InsertHelper;

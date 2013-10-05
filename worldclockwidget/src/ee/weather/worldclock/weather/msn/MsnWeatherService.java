@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.weather.msn;
+package ee.weather.worldclock.weather.msn;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
@@ -36,9 +36,9 @@ import org.xml.sax.InputSource;
 
 import android.util.Log;
 import android.util.SparseIntArray;
-import ch.corten.aha.worldclock.weather.AbstractObservation;
-import ch.corten.aha.worldclock.weather.WeatherObservation;
-import ch.corten.aha.worldclock.weather.WeatherService;
+import ee.weather.worldclock.weather.AbstractObservation;
+import ee.weather.worldclock.weather.WeatherObservation;
+import ee.weather.worldclock.weather.WeatherService;
 
 public class MsnWeatherService implements WeatherService {
 

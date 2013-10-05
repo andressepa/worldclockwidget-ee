@@ -16,7 +16,7 @@
 
 package net.margaritov.preference.colorpicker;
 
-import ch.corten.aha.worldclock.R;
+import ee.weather.worldclock.R;
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.PixelFormat;

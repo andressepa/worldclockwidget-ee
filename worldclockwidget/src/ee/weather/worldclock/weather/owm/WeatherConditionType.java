@@ -1,9 +1,8 @@
-package ch.corten.aha.worldclock.weather.owm;
+package ee.weather.worldclock.weather.owm;
 
 import android.util.SparseArray;
-
-import ch.corten.aha.worldclock.weather.WeatherObservation;
-import static ch.corten.aha.worldclock.weather.owm.WeatherConditionPriority.*;
+import ee.weather.worldclock.weather.WeatherObservation;
+import static ee.weather.worldclock.weather.owm.WeatherConditionPriority.*;
 
 enum WeatherConditionType {
     THUNDERSTORM_WITH_LIGHT_RAIN(200, THUNDERSTORM_PRIORITY, WeatherObservation.THUNDERSTORM),

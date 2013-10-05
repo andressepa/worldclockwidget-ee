@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.compatibility;
+package ee.weather.worldclock.compatibility;
 
 public class WeatherWidgetProvider2x3 extends CompatWeatherWidgetProvider {
 

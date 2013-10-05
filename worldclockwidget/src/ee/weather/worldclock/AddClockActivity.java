@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.util.TimeZone;
 
@@ -26,8 +26,8 @@ import com.actionbarsherlock.view.MenuItem;
 import com.actionbarsherlock.widget.SearchView;
 import com.actionbarsherlock.widget.SearchView.OnQueryTextListener;
 
-import ch.corten.aha.worldclock.provider.WorldClock;
-import ch.corten.aha.worldclock.provider.WorldClock.Cities;
+import ee.weather.worldclock.provider.WorldClock;
+import ee.weather.worldclock.provider.WorldClock.Cities;
 import android.content.ContentUris;
 import android.content.Context;
 import android.database.Cursor;

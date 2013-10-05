@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package ch.corten.aha.widget;
+package ee.weather.widget;
 
 import android.content.Context;
 import android.database.ContentObserver;

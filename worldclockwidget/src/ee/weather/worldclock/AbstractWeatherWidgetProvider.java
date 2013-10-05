@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.util.ArrayList;
 import java.util.List;

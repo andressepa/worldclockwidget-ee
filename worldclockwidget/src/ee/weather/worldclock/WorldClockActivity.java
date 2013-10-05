@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;
@@ -29,12 +29,12 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
 
-import ch.corten.aha.widget.DigitalClock;
-import ch.corten.aha.widget.PauseListener;
-import ch.corten.aha.widget.PauseSource;
-import ch.corten.aha.worldclock.provider.WorldClock;
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks;
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks.MoveTarget;
+import ee.weather.widget.DigitalClock;
+import ee.weather.widget.PauseListener;
+import ee.weather.widget.PauseSource;
+import ee.weather.worldclock.provider.WorldClock;
+import ee.weather.worldclock.provider.WorldClock.Clocks;
+import ee.weather.worldclock.provider.WorldClock.Clocks.MoveTarget;
 import android.content.ContentResolver;
 import android.content.ContentUris;
 import android.content.Context;

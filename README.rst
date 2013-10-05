@@ -1,5 +1,10 @@
-World Clock & Weather
+This is a fork of World Clock & Weather [original code](https://github.com/arminha/worldclockwidget/)!
 =====================
+
+
+
+World Clock & Weather
+--------
 
 A simple application to display the local time and current weather conditions in places all over the world.
 It comes with two home screen widgets which show weather and time or time only.
@@ -14,13 +19,6 @@ Features
 * Simple and clean UI
 
 The Internet connectivity permission is **only** used to retrieve current weather conditions.
-
-Download
---------
-
-The latest version of the app is available on `Google Play`__.
-
-__ https://play.google.com/store/apps/details?id=ch.corten.aha.worldclock
 
 Screenshots
 -----------

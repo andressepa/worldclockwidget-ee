@@ -14,10 +14,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.provider;
+package ee.weather.worldclock.provider;
 
-import ch.corten.aha.worldclock.provider.WorldClock.Cities;
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks;
+import ee.weather.worldclock.provider.WorldClock.Cities;
+import ee.weather.worldclock.provider.WorldClock.Clocks;
 import android.content.ContentProvider;
 import android.content.ContentUris;
 import android.content.ContentValues;

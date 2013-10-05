@@ -1,4 +1,4 @@
-package ch.corten.aha.worldclock.weather.owm;
+package ee.weather.worldclock.weather.owm;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
@@ -16,10 +16,9 @@ import java.util.List;
 import com.google.gson.stream.JsonReader;
 
 import android.util.Log;
-
-import ch.corten.aha.worldclock.weather.AbstractObservation;
-import ch.corten.aha.worldclock.weather.WeatherObservation;
-import ch.corten.aha.worldclock.weather.WeatherService;
+import ee.weather.worldclock.weather.AbstractObservation;
+import ee.weather.worldclock.weather.WeatherObservation;
+import ee.weather.worldclock.weather.WeatherService;
 
 /**
  * Open Weather Map weather service using the JSON API.

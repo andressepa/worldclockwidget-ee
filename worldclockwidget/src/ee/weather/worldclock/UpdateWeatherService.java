@@ -14,16 +14,16 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.util.Date;
 
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks;
-import ch.corten.aha.worldclock.weather.WeatherObservation;
-import ch.corten.aha.worldclock.weather.WeatherService;
-import ch.corten.aha.worldclock.weather.msn.MsnWeatherService;
-import ch.corten.aha.worldclock.weather.owm.OwmWeatherService;
-import ch.corten.aha.worldclock.weather.yahoo.YahooWeatherService;
+import ee.weather.worldclock.provider.WorldClock.Clocks;
+import ee.weather.worldclock.weather.WeatherObservation;
+import ee.weather.worldclock.weather.WeatherService;
+import ee.weather.worldclock.weather.msn.MsnWeatherService;
+import ee.weather.worldclock.weather.owm.OwmWeatherService;
+import ee.weather.worldclock.weather.yahoo.YahooWeatherService;
 import android.app.IntentService;
 import android.content.ContentResolver;
 import android.content.Context;

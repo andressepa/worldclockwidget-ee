@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.weather;
+package ee.weather.worldclock.weather;
 
 public interface WeatherService {
     WeatherObservation getWeather(double latitude, double longitude);

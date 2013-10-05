@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.provider;
+package ee.weather.worldclock.provider;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

@@ -14,12 +14,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock.provider;
+package ee.weather.worldclock.provider;
 
 import java.util.TimeZone;
 
-import ch.corten.aha.worldclock.TimeZoneInfo;
-import ch.corten.aha.worldclock.weather.WeatherObservation;
+import ee.weather.worldclock.TimeZoneInfo;
+import ee.weather.worldclock.weather.WeatherObservation;
 import android.content.ContentResolver;
 import android.content.ContentUris;
 import android.content.ContentValues;

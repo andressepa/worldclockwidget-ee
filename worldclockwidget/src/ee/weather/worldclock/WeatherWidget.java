@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-package ch.corten.aha.worldclock;
+package ee.weather.worldclock;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -32,8 +32,8 @@ import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.preference.PreferenceManager;
 import android.widget.RemoteViews;
-import ch.corten.aha.widget.RemoteViewUtil;
-import ch.corten.aha.worldclock.provider.WorldClock.Clocks;
+import ee.weather.widget.RemoteViewUtil;
+import ee.weather.worldclock.provider.WorldClock.Clocks;
 
 public class WeatherWidget {
     private static final boolean SANS_JELLY_BEAN_MR1 = Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN_MR1;

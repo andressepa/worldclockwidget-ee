@@ -9,7 +9,7 @@
 	    android:padding="16dp"
 	    android:orientation="vertical">
 
-	    <ch.corten.aha.widget.CapitalizingTextView
+	    <ee.weather.widget.CapitalizingTextView
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:textAllCaps="true"
@@ -29,7 +29,7 @@
 	        <requestFocus />
 	    </EditText>
 
-	    <ch.corten.aha.widget.CapitalizingTextView
+	    <ee.weather.widget.CapitalizingTextView
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_marginTop="8dp"
@@ -47,7 +47,7 @@
 	        android:inputType="textCapWords"
 	        style="@style/EditTextHoloCompat" />
 
-	    <ch.corten.aha.widget.CapitalizingTextView
+	    <ee.weather.widget.CapitalizingTextView
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_marginTop="8dp"
@@ -65,7 +65,7 @@
 	        android:inputType="numberSigned|numberDecimal"
 	        style="@style/EditTextHoloCompat" />
 
-	    <ch.corten.aha.widget.CapitalizingTextView
+	    <ee.weather.widget.CapitalizingTextView
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_marginTop="8dp"
@@ -93,7 +93,7 @@
 	        android:textColor="?android:attr/textColorSecondary"
 	        style="@style/CheckBoxHoloCompat" />
 
-	    <ch.corten.aha.widget.CapitalizingTextView
+	    <ee.weather.widget.CapitalizingTextView
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_marginTop="8dp"

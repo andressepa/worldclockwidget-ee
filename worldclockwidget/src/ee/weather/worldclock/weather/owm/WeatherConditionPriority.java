@@ -1,4 +1,4 @@
-package ch.corten.aha.worldclock.weather.owm;
+package ee.weather.worldclock.weather.owm;
 
 final class WeatherConditionPriority {
 

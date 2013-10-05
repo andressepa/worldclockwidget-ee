@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ch.corten.aha.widget.CheckableFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ee.weather.widget.CheckableFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 <RelativeLayout
@@ -8,4 +8,4 @@
     android:padding="8dp">
     <include layout="@layout/clock_item_merge" />
 </RelativeLayout>
-</ch.corten.aha.widget.CheckableFrameLayout>
+</ee.weather.widget.CheckableFrameLayout>
