@@ -1,4 +1,4 @@
-This is a fork of World Clock & Weather [original code](https://github.com/arminha/worldclockwidget/)!
+This is a fork of World Clock & Weather (https://github.com/arminha/worldclockwidget/).
 =====================
 
 
